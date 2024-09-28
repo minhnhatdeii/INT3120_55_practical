@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="luffy_name">Monkey.D.Luffy</string>
+    <string name="luffy_pirate">Straw Hat Crew</string>
+    <string name="buggy_name">Buggy</string>
+    <string name="buggy_pirate">Buggy Pirates</string>
+    <string name="shank_name">Shanks</string>
+    <string name="shank_pirate">Red-Haired Pirates</string>
+    <string name="blackbeard_name">Marshall.D.Teach</string>
+    <string name="blackbeard_pirate">Blackbeard Pirates</string>
+</resources>
