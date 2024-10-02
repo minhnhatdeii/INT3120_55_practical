@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">30Days</string>
+    <!--
+        game 1
+    -->
+        <string name="title_1">Path Of Exile</string>
+        <string name="description_1">Hệ điều hành: Windows XP SP3, Windows 7-8-10 (64-bit), Vista.
+CPU: x86-compatible, quad core 3.2GHz hoặc cao hơn nếu có thể đầu tư.
+RAM: 8GB.
+DirectX: 9.0c.
+Đồ họa: ATI Radeon HD 7970 NVIDIA GeForce 770 GTX.
+Ổ cứng: 32GB trở lên.
+Mạng: Kết nối internet ổn định.</string>
+    <!--
+    game 2
+-->
+    <string name="title_2">League of Legends</string>
+    <string name="description_2">CPU: Intel Core i5 4460 3.2Ghz (hoặc bộ xử lý tương đương).
+RAM: 12GB.
+Card đồ họa: GTX 1050TI 4GB hoặc tương đương.
+HDD: 14GB.
+Nếu bạn muốn chơi mượt mà hơn và đẹp hơn thì nên sử dụng cấu hình khuyến nghị sau:
+
+CPU: Intel Core i5 4460 3.2Ghz hoặc tương đương.
+RAM: 16GB.
+Card đồ họa: GTX 1060 6GB hoặc tương đương.
+HDD: 14GB.</string>
+    <!--
+    game 3
+-->
+    <string name="title_3">Valorant</string>
+    <string name="description_3">Hệ điều hành: Windows 7/8/10 64-Bit.
+CPU: Intel I3-4150.
+Card đồ họa: GeForce GT 730.
+RAM: 4GB.</string>
+    <!--
+    game 4
+-->
+    <string name="title_4">FIFA Online 4</string>
+    <string name="description_4">Hệ điều hành: Windows Vista, Windows 7-8-8.1, Windows 10 (64 bit).
+CPU: Intel Core i3-2100 3.1 GHz, AMD Phenom 7950 Quad-Core, AMD Athlon II X4 620.
+RAM: 8GB.</string>
+    <!--
+    game 5
+-->
+    <string name="title_5">Diablo III</string>
+    <string name="description_5">Hệ điều hành: Windows 7, Windows 8, Windows 10 (64-bit).
+CPU: AMD Phenom X3 8750, Intel Core 2 Duo E6600 hoặc hoặc tương đương.
+RAM: 2 GB RAM.
+Đồ họa: NVIDIA GeForce 8800 GT hoặc ATI Radeon™ HD 2600 XT hoặc Intel HD Graphics 3000 hoặc tương đương.
+Dung lượng đĩa cứng: 25GB không gian trống.</string>
+    </resources>
